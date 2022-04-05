@@ -1,0 +1,33 @@
+{
+    "$schema": "http://json.schemastore.org/web-manifest",
+    "short_name": "PWA",
+    "name": "Universidad Tecnológica de Torreón Devs",
+    "start_url": "index.html",
+    "background_color": "#ededed",
+    "theme_color": "#ededed",
+    "display": "standalone",
+    "description": "Esta es una aplicación de ejemplo como PWA",
+    "orientation": "landscape",
+    "scope": "/",
+    "icons": [{
+            "src": "images/icons/star-svgrepo-com.svg",
+            "sizes": "96x96",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/icons/star-svgrepo-com.svg",
+            "sizes": "144x144",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/icons/star-svgrepo-com.svg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/icons/star-svgrepo-com.svg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
