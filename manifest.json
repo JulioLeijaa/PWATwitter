@@ -1,13 +1,12 @@
 {
-    "$schema": "http://json.schemastore.org/web-manifest",
-    "short_name": "PWA",
-    "name": "Universidad Tecnológica de Torreón Devs",
+    "short_name": "PWA Leija",
+    "name": "JulioLeija UTT",
     "start_url": "index.html",
     "background_color": "#ededed",
     "theme_color": "#ededed",
     "display": "standalone",
     "description": "Esta es una aplicación de ejemplo como PWA",
-    "orientation": "landscape",
+    "orientation": "portrait",
     "scope": "/",
     "icons": [{
             "src": "images/icons/star-svgrepo-com.svg",
