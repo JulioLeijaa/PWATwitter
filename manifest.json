@@ -1,5 +1,5 @@
 {
-    "short_name": "PWA",
+    "short_name": "PWALeija",
     "name": "JulioLeija UTT",
     "start_url": "index.html",
     "background_color": "#ededed",
@@ -8,8 +8,8 @@
     "description": "Esta es una aplicación de ejemplo como PWA",
     "orientation": "portrait",
     "icons": [{
-        "src": "images/icons/star-svgrepo-com.svg",
+        "src": "images/planet-earth.png",
         "sizes": "512x512",
-        "type": "image/svg"
+        "type": "image/png"
     }]
 }
