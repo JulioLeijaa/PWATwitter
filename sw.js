@@ -1,6 +1,6 @@
 importScripts('js/sw-acces.js');
 
-const myUrl = '';
+const myUrl = 'https://julioleijaa.github.io/PWATwitter/';
 
 const STATIC_CACHE = 'static-v1';
 const DYNAMIC_CACHE = 'dynamic-v1';

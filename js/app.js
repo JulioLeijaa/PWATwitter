@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swFile = '';
+var swFile = 'https://julioleijaa.github.io/PWATwitter/sw.js';
 
 if (navigator.serviceWorker) {
     if (url.includes('localhost'))
